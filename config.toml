@@ -57,7 +57,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = ""
+    subtitle = "Verstand lenkt ab du musst ins Unbekannte gehen"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "hello@apnea.dev"
