@@ -60,7 +60,7 @@ disqusShortname = ""
     subtitle = "Verstand lenkt ab du musst ins Unbekannte gehen"
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "hello@apnea.dev"
+    avatarEmail = ""
 
     # set an path to the image file you want to use | overwrites avatar by email
     customImage = "avatar.jpg"
