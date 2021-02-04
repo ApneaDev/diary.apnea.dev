@@ -22,7 +22,7 @@ Ich habe also all meinen Mut zusammen genommen und gefragt, ob ich denn eventuel
 _Ja ich bin noch extrem unsicher, wenn ich als trans Frau in einen Safe-Space für Frauen eindringe. Gerade wenn es einen sexuellen Kontext hat stört mich mein Penis und ich möchte nicht, dass sich auch nur eine der Anderen dadurch gestört fühlt. Lieber trete ich dann den Rückzug an_
 
 Kurz darauf habe ich die schönste Antwort bekommen, die ich mir nur vorstellen kann
-> Liebe, liebe Sarah :)
+> Liebe, liebe Apnea :)
 > Schön, dass du mir schreibst - ich weiß die Offenheit und das Vertrauen sehr zu schätzen. Zu deinen Fragen bekommst du eine klare Antwort, ich fahre da eine ganz einfache Linie.
 >
 > Du definierst dich selbst als Frau, also bist du eine und damit bist du herzlich willkommen in meiner Runde - that's it. ;)

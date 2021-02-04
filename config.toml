@@ -1,4 +1,4 @@
-title = "ApneaDev"
+title = "Apnea"
 baseURL = "https://diary.apnea.dev/"
 theme = "bilberry-hugo-theme"
 
@@ -27,7 +27,7 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Sarah"
+  author = "Apnea"
   description = ""
   keywords = ""
 
@@ -124,7 +124,7 @@ disqusShortname = ""
     #]
 
     # credits line configuration
-    copyrightBy = "by Sarah Jessica"
+    copyrightBy = "by Apnea"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2019"
     copyrightUrl = "https://apnea.dev"
