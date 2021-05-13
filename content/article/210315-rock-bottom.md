@@ -8,7 +8,7 @@ tags: []
 toc: false
 author: ""
 ---
-Wie man im Januar in einem eher [ungewöhnlichen Post]({{< ref "210122-kontrollverlust.md" >}} "Kontrollverlust") beschrieben habe, geht es mir aktuell psychisch alles andere als Gut.
+Wie man im Januar in einem eher [ungewöhnlichen Post]({{< ref "210122-kontrollverlust.md" >}} "Kontrollverlust") beschrieben habe, geht es mir aktuell psychisch alles andere als gut.
 
 Letzten Montag bin ich dann endgültig am Boden angekommen. Paula und ich sind direkt ins nächste Krankenhaus, mit angeschlossener Psychiatrie, gefahren. Am Krankenhaus angekommen, hingen überall Schilder, auf denen Stand, dass Patienten nur ohne Begleitung ins Gebäude dürfen. Scheinbar hat man mir aber meinen Zustand angesehen oder ich habe bei der Anmeldung irgendwas richtiges gesagt. Es gab keine Diskussion ob Paula mit rein darf oder nicht.
 
