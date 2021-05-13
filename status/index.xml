@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statuses on Apnea</title>
+    <link>https://diary.apnea.dev/status/</link>
+    <description>Recent content in Statuses on Apnea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Jan 2021 17:23:59 +0100</lastBuildDate><atom:link href="https://diary.apnea.dev/status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://diary.apnea.dev/status/210105-aua/</link>
+      <pubDate>Tue, 05 Jan 2021 17:23:59 +0100</pubDate>
+      
+      <guid>https://diary.apnea.dev/status/210105-aua/</guid>
+      <description>Heute mal nur eine Kurzmeldung ;) Meine Brustwarzen sind seit heute Vormittag extrem empfindlich. Das heißt da passiert schon was :)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://diary.apnea.dev/status/201102-f64/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://diary.apnea.dev/status/201102-f64/</guid>
+      <description>Heute habe ich von meiner Therapeutin das Indikationsschreiben für den Endokrinologen bekommen. Damit hab ich es das erste mal Schwarz auf Weiß, dass ich trans bin :)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://diary.apnea.dev/status/200819-gute-nachrichten/</link>
+      <pubDate>Wed, 19 Aug 2020 21:56:01 +0100</pubDate>
+      
+      <guid>https://diary.apnea.dev/status/200819-gute-nachrichten/</guid>
+      <description>Ich habe vorhin eine sehr schöne Nachricht bekommen :) Meine Therapeutin hat schon ab 1.9. einen freien Therapieplatz für mich</description>
+    </item>
+    
+  </channel>
+</rss>
